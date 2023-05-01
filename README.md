@@ -8,8 +8,8 @@ Source of the data: https://www.kaggle.com/code/raphaelmarconato/credit-risk-eda
 ### Approach
 
 The approach for this problem is the following:
-    1. Data Cleaning --> file name
-    2. Exploratory Data Analysis --> 
+    1. Data import --> explore.ipynb
+    2. Exploratory Data Analysis --> explore.ipynb
     3. Feature Engineering -->
     4. Classification Model -->
     5. Iteration -->
