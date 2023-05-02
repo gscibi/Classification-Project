@@ -103,6 +103,20 @@ class: object, has 2 values
     good
     bad
 
+# Encoding Explained
+Checkign Status - it can be sequentially classified
+Credit History - unclear how it would be classified sequentially
+Purpose - One hot encoding
+Savings Status - it can be sequentially classified
+Employment - it can be sequentially classified
+Personal Status - One hot encoding
+Other parties - One hot encoding
+Property Magnitude - One hot encoding
+Other Payment Plans - One hot encoding
+Housing - Unclear
+Job - Unclear
+Own telefone - One hot encoding
+foreign worked - One hot encoding
 
 
 
